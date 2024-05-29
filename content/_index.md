@@ -26,7 +26,7 @@ sections:
     subtitle: ""
     text: "Site criado com o intuito de compartilhar meus estudos sobre geografia, especialmente na área de geociências..\n\n 
   Aqui você encontrará conteúdos sobre Sensoriamento Remoto, SIG (QGIS, ARCGIS, GEE), programação (Python, R) e muito mais!\n\n
-      Espero que gostem!.\n\n Site em contrução... \U0001F603"
+      Espero que gostem!.\n\n Site em construção... \U0001F603"
     title: "\U0001F4DA Objetivo do Site"
   design:
     columns: "1"

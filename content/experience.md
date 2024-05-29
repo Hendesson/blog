@@ -23,6 +23,6 @@ sections:
   content:
     title: Languages
     username: admin
-title: Experience
+title: Experiências
 type: landing
 ---
