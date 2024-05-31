@@ -23,7 +23,7 @@ languages:
     languageName: Português
     params:
       subtitle: Referência, Tutoriais e Explicações
-    title: Documentação de Projeto
+    title: Hendesson SIG
     weight: 1
   en:
     contentDir: content/en

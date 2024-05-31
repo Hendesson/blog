@@ -12,7 +12,7 @@ pt:
 en:
   languageCode: en-US
   contentDir: content/en
-  title: Chinese website title...
+  title: Hendesson GIS
   params:
     description: Site description in English...
   menu:
