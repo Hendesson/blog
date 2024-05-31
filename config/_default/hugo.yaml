@@ -13,8 +13,30 @@ baseURL: 'https://example.com/'
 ############################
 
 defaultContentLanguage: pt
+defaultContentLanguageInSubdir: true
+languages:
+  pt:
+    contentDir: content/pt
+    disabled: false
+    languageCode: pt-br
+    languageDirection: ltr
+    languageName: Português
+    params:
+      subtitle: Referência, Tutoriais e Explicações
+    title: Documentação de Projeto
+    weight: 1
+  en:
+    contentDir: content/en
+    disabled: false
+    languageCode: en-US
+    languageDirection: ltr
+    languageName: English
+    params:
+      subtitle: Reference, Tutorials, and Explanations
+    title: Project Documentation
+    weight: 2
+
 hasCJKLanguage: false
-defaultContentLanguageInSubdir: false
 removePathAccents: true
 
 ############################
