@@ -6,7 +6,7 @@
 # Website name
 title: Hendesson SIG
 # Website URL
-baseURL: ''
+baseURL: 'hendesson-sig.netlify.app'
 
 ############################
 ## LANGUAGE
@@ -33,7 +33,7 @@ languages:
     languageName: English
     params:
       subtitle: Reference, Tutorials, and Explanations
-    title: Project Documentation
+    title: Hendesson SIG
     weight: 2
 
 hasCJKLanguage: false
