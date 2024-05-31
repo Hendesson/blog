@@ -6,7 +6,7 @@
 # Website name
 title: Hendesson SIG
 # Website URL
-baseURL: 'https://example.com/'
+baseURL: 'hendesson-sig.netlify.app'
 
 ############################
 ## LANGUAGE
